@@ -1,9 +1,5 @@
 # 🛒 Big Data Analytics: Diagnosing Profitability in Retail
 
-<p align="center">
-  <img src="[ضع-هنا-رابط-صورة-مميزة-تمثل-المشروع]" alt="Big Data Project Banner" width="90%"/>
-</p>
-
 ## 🌟 Business Problem & Objective
 
 In the fast-paced retail sector, understanding the true drivers of profitability is critical. This project addresses a common business challenge: a disconnect between high sales volume and inconsistent profits. The primary objective was to analyze a large transactional dataset for "MegaMart" to diagnose the root causes of profit loss and identify opportunities for sustainable growth.
